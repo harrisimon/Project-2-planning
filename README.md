@@ -7,14 +7,14 @@ Once a user has found a movie, either by searching or suggestion they can log th
 
 
 ### Technologies Used
-Express
-Mongoose / MongoDB
-Bootstrap
-HTML + Javascript + CSS
-Morgan
-Method Override
-BCRYPTjs
-Axios
+* Express
+* Mongoose / MongoDB
+* Bootstrap
+* HTML + Javascript + CSS
+* Morgan
+* Method Override
+* BCRYPTjs
+* Axios
 
 
 ### User Stories
