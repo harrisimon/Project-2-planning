@@ -32,7 +32,6 @@ As a user I want to be able to...
 * remove a log from a movie I watched
 * add comments to a movie I watched
 
-
 ### Entity Relationship Diagrams
 ![ERD Diagram](/Movie%20logger%20ERD.drawio.png "erd diagram")
 
@@ -47,3 +46,10 @@ As a user I want to be able to...
 ![screen8](/movie%20logger/movie%20logger.008.jpeg "screen8")
 ![screen9](/movie%20logger/movie%20logger.009.jpeg "screen9")
 ![screen10](/movie%20logger/movie%20logger.010.jpeg "screen10")
+
+### Schedule
+Monday - pseudocode routes, figure out seed data / recommedation data / start recommendation logic
+Tuesday - Establish schemas, start to write routes
+Wednesday - Continue with routes, continue recommendation logic, start views
+Thursday - Continue with views, finish routes
+Friday - Finish views
