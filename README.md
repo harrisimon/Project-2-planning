@@ -52,8 +52,8 @@ Logging
 ![screen6](/movie%20logger/movie%20logger.006.jpeg "screen6")
 ![screen7](/movie%20logger/movie%20logger.007.jpeg "screen7")
 ![screen8](/movie%20logger/movie%20logger.008.jpeg "screen8")
-![screen9](/movie%20logger/movie%20logger.009.jpeg "screen9")
 Log view
+![screen9](/movie%20logger/movie%20logger.009.jpeg "screen9")
 ![screen10](/movie%20logger/movie%20logger.010.jpeg "screen10")
 
 ### Schedule
