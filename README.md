@@ -48,8 +48,8 @@ As a user I want to be able to...
 ![screen10](/movie%20logger/movie%20logger.010.jpeg "screen10")
 
 ### Schedule
-Monday - pseudocode routes, figure out seed data / recommedation data / start recommendation logic
-Tuesday - Establish schemas, start to write routes
-Wednesday - Continue with routes, continue recommendation logic, start views
-Thursday - Continue with views, finish routes
-Friday - Finish views
+* Monday - pseudocode routes, figure out seed data / recommedation data / start recommendation logic
+* Tuesday - Establish schemas, start to write routes
+* Wednesday - Continue with routes, continue recommendation logic, start views
+* Thursday - Continue with views, finish routes
+* Friday - Finish views
