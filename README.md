@@ -23,14 +23,20 @@ As a user I want to be able to...
 * log in with the username and password
 * log out
 * search for a movie by title
+* see other users' logs
+* edit my own logs
 * read a plot synopsis for a movie
+* log a movie I watched
+* remove a log from a movie I watched
+* add comments to a movie I watched
+
+### Stretch goals
+Add recommendations
+User stories for recs:
 * see a movie suggestion based on runtime
 * see a movie suggestion based on genre
 * see a movie suggestion based on release day, eg today's movie
 * see a random movie suggestion
-* log a movie I watched
-* remove a log from a movie I watched
-* add comments to a movie I watched
 
 ### Entity Relationship Diagrams
 ![ERD Diagram](/Movie%20logger%20ERD.drawio.png "erd diagram")
@@ -39,17 +45,20 @@ As a user I want to be able to...
 ![screen1](/movie%20logger/movie%20logger.001.jpeg "screen1")
 ![screen2](/movie%20logger/movie%20logger.002.jpeg "screen2")
 ![screen3](/movie%20logger/movie%20logger.003.jpeg "screen3")
+Recommendations added as stretch
 ![screen4](/movie%20logger/movie%20logger.004.jpeg "screen4")
+Logging
 ![screen5](/movie%20logger/movie%20logger.005.jpeg "screen5")
 ![screen6](/movie%20logger/movie%20logger.006.jpeg "screen6")
 ![screen7](/movie%20logger/movie%20logger.007.jpeg "screen7")
 ![screen8](/movie%20logger/movie%20logger.008.jpeg "screen8")
 ![screen9](/movie%20logger/movie%20logger.009.jpeg "screen9")
+Log view
 ![screen10](/movie%20logger/movie%20logger.010.jpeg "screen10")
 
 ### Schedule
-* Monday - pseudocode routes, figure out seed data / recommedation data / start recommendation logic
-* Tuesday - Establish schemas, start to write routes
-* Wednesday - Continue with routes, continue recommendation logic, start views
+* Monday - pseudocode routes, establish schemas
+* Tuesday - Start writing routes, 
+* Wednesday - start views, continue with route
 * Thursday - Continue with views, finish routes
-* Friday - Finish views
+* Friday - Finish views / refactor for recommendation
