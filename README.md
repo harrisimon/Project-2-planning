@@ -39,7 +39,7 @@ User stories for recs:
 * see a random movie suggestion
 
 ### Entity Relationship Diagrams
-![ERD Diagram](./Movie%20logger%20ERD.drawio.png "erd diagram")
+![ERD Diagram](Movie%20logger%20ERD.drawio.png "erd diagram")
 
 ### Wireframes
 ![screen1](/movie%20logger/movie%20logger.001.jpeg "screen1")
